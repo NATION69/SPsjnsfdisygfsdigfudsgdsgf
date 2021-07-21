@@ -14,7 +14,7 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
-client.login("NzMwNDAzMzAxMTcwMDg1ODk5.YPiLTw.3QQhUQnuN4JCiTQarOST-PoWugU");
+client.login("mfa.BS8N1IBg5GhSN5ygxbfiB6RUKyixC_Bb6QJA_1SYBQnl68GYL6lrpuLHnpHtorXPvQHrMC5TrwWpErY3R145");
 client2.login(""); 
 client3.login(""); 
 client4.login(""); 
