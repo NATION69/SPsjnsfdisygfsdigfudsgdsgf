@@ -2,7 +2,7 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js"); 
-const myid = ['688200316994191419']; //هنا بتحط الايدى بتاعك بتاع الديسكورد
+const myid = ['476394243632398356']; //هنا بتحط الايدى بتاعك بتاع الديسكورد
 const prefix = ['.']; 
 const cmd = require("node-cmd") 
 const client = new Discord.Client(); 
@@ -14,12 +14,12 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
-client.login("mfa.iRfacM8T90tt3idlYbJmyOKmhm3R-HS5f_wrLU_LxTLPGOduKtzp9BVROhqWUUxtmOndOuLYOW_dllincOXS"); 
-client2.login("NDc2Mzk0MjQzNjMyMzk4MzU2.X3T1Xw.JrCDQSiXYbcicnUgYwkodPN1bDM"); 
-client3.login("NzU0NzYzNDU5ODA3MTUwMjIx.X15fFA.YIIykfMh6Phta8ZzSD61jR_ZLD8"); 
-client4.login("NzU0NzY2NjY2MTI2MDY1NzA1.X15h_g.Io_8d8tqaF7wTcGBMMGUAPes_Io"); 
-client5.login("NzU0NzY4NTgzMjc5NzcxNzg4.X15lSQ.bsGnk6gPSC6CZ__hF4rZtaNOMRg"); 
-client6.login("NzU0NzY3OTgzNDI2OTI4NzIw.X15iww.DP0gA-VQceuKDsEuc8IfhR1vBus"); 
+client.login("NzMwNDAzMzAxMTcwMDg1ODk5.YPiLTw.3QQhUQnuN4JCiTQarOST-PoWugU");
+client2.login(""); 
+client3.login(""); 
+client4.login(""); 
+client5.login(""); 
+client6.login("");
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
