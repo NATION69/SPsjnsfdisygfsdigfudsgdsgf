@@ -4,7 +4,7 @@
   "description": "Farm Credit ProBot copyright © Angry Black 2020",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.3.2",
