@@ -14,12 +14,12 @@ const client5 = new Discord.Client();
 const client6 = new Discord.Client(); 
 
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-client.login("mfa.BS8N1IBg5GhSN5ygxbfiB6RUKyixC_Bb6QJA_1SYBQnl68GYL6lrpuLHnpHtorXPvQHrMC5TrwWpErY3R145");
-client2.login(""); 
-client3.login(""); 
-client4.login(""); 
-client5.login(""); 
-client6.login(""); 
+client.login(TOKEN);
+client2.login(TOKEN2); 
+client3.login(TOKEN3); 
+client4.login(TOKWN4); 
+client5.login(TOKEN5); 
+client6.login(TOKEN6); 
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
